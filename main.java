@@ -1,17 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
 package lab7;
 
+/**
+ *
+ * @author Acer
+ */
 public class main {
-    
-    public static void main(String[] args)
-    {
-        Movable m1 = new MovablePoint(1, 2, 3, 4);   
-        System.out.println(m1);
-        m1.moveLeft();
-        System.out.println(m1);
-           
-        Movable m2 = new MovableCircle(5, 6, 7, 8, 9); 
-        System.out.println(m2);
-        m2.moveRight();
-        System.out.println(m2);
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
+    
 }
