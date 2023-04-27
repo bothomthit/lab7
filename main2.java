@@ -7,7 +7,7 @@
  *
  * @author Admin
  */
-public class main {
+public class main2 {
 
     /**
      * @param args the command line arguments
